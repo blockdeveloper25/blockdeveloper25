@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently a [Your Position or Student at ...]
+- 🎓 I'm currently a Student at Sabaragamuwa University of Sri Lanka
 - 🤖 I love building intelligent systems using Machine Learning and AI
 - 🧠 Currently exploring **Retrieval-Augmented Generation** and LLM Applications
 - 💼 I enjoy working on **backend systems**, **APIs**, and **ML pipelines**
-- 📫 How to reach me: [your.email@example.com](mailto:ssujair@gmail.com)
+- 📫 How to reach me: [ssujair@gmail.com](mailto:ssujair@gmail.com)
 
 ---
 
