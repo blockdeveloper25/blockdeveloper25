@@ -31,7 +31,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blockdeveloper25&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=blockdeveloper25&theme=tokyonight" alt="GitHub streak" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=blockdeveloper25&theme=tokyonight" alt="GitHub streak"
+
 </p>
 
 
