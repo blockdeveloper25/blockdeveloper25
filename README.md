@@ -31,8 +31,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blockdeveloper25&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=blockdeveloper25&theme=tokyonight" alt="GitHub streak" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=blockdeveloper25&theme=tokyonight" alt="GitHub streak" height="150"/>
 </p>
+
 
 ---
 
@@ -44,8 +45,8 @@
 - 📊 [**Employee Retention Predictor**](https://github.com/YourGitHubUsername/Employee-Retention)  
   Used XGBoost & Random Forest to predict employee churn with Flask API integration.
 
-- 🎥 [**YouTube Post Manager**](https://github.com/YourGitHubUsername/YT-Post-Admin)  
-  Full-stack app with React + Node.js for managing YouTube content and AWS S3 image uploads.
+- 🎥 [**Multi-Agents-MCP**](https://github.com/blockdeveloper25/Multi-Agents-MCP.git)  
+  Used Multi AI Agent with MCP Mechanism to browse information, Extract and control device, and RoomBooking(AirBnB)
 
 ---
 
